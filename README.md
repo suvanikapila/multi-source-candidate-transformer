@@ -5,6 +5,18 @@
 
 ---
 
+## Demo Video
+
+▶️ [Watch the 2-minute demo (demo_video.mp4)](demo_video.mp4)
+
+The demo shows:
+- End-to-end run on all 4 sample inputs (default schema output)
+- Custom-config output with field subset + path remapping
+- Design decision: stateless projection layer (canonical record never mutated)
+- Edge case: missing/malformed source file handled gracefully
+
+---
+
 ## Demo
 
 ▶️ [**Watch the demo video**](demo/demo.mp4)
