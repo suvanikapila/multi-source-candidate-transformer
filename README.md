@@ -17,13 +17,6 @@ The demo shows:
 
 ---
 
-## Demo
-
-▶️ [**Watch the demo video**](demo/demo.mp4)
-
-> The demo walks through the full pipeline: passing all four source types via the CLI, verbose logging output, the produced canonical JSON, and custom config projection.
-
----
 
 ## What It Does
 
