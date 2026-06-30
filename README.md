@@ -5,6 +5,14 @@
 
 ---
 
+## Demo
+
+▶️ [**Watch the demo video**](demo/demo.mp4)
+
+> The demo walks through the full pipeline: passing all four source types via the CLI, verbose logging output, the produced canonical JSON, and custom config projection.
+
+---
+
 ## What It Does
 
 Ingests candidate information from multiple sources, normalizes all fields to canonical formats, merges/deduplicates across sources (with conflict resolution), assigns provenance and confidence, and emits a clean canonical JSON profile.
