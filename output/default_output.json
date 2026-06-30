@@ -1,0 +1,326 @@
+{
+  "candidate_id": "cand_d1b335152948",
+  "full_name": "Priya Sharma",
+  "emails": [
+    "priya.sharma@gmail.com"
+  ],
+  "phones": [
+    "+919876543210"
+  ],
+  "location": {
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "IN"
+  },
+  "links": {
+    "linkedin": "https://linkedin.com/in/priya-sharma-dev",
+    "github": "https://github.com/priyasharma",
+    "portfolio": null,
+    "other": []
+  },
+  "headline": "Senior Software Engineer",
+  "years_experience": 5.0,
+  "skills": [
+    {
+      "name": "Python",
+      "confidence": 1.0,
+      "sources": [
+        "ats",
+        "csv",
+        "notes",
+        "resume"
+      ]
+    },
+    {
+      "name": "Django",
+      "confidence": 1.0,
+      "sources": [
+        "ats",
+        "csv",
+        "resume"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "confidence": 1.0,
+      "sources": [
+        "ats",
+        "csv",
+        "notes",
+        "resume"
+      ]
+    },
+    {
+      "name": "Docker",
+      "confidence": 1.0,
+      "sources": [
+        "ats",
+        "csv",
+        "notes",
+        "resume"
+      ]
+    },
+    {
+      "name": "AWS",
+      "confidence": 1.0,
+      "sources": [
+        "ats",
+        "csv",
+        "notes",
+        "resume"
+      ]
+    },
+    {
+      "name": "REST API",
+      "confidence": 1.0,
+      "sources": [
+        "ats",
+        "csv",
+        "notes",
+        "resume"
+      ]
+    },
+    {
+      "name": "Flask",
+      "confidence": 1.0,
+      "sources": [
+        "ats",
+        "resume"
+      ]
+    },
+    {
+      "name": "Redis",
+      "confidence": 1.0,
+      "sources": [
+        "ats",
+        "resume"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "confidence": 1.0,
+      "sources": [
+        "ats",
+        "notes",
+        "resume"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "confidence": 1.0,
+      "sources": [
+        "ats",
+        "notes",
+        "resume"
+      ]
+    },
+    {
+      "name": "FastAPI",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "GraphQL",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "Pandas",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "Scikit-learn",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "Git",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "Linux",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "Agile",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Accenture",
+      "title": "Senior Software Engineer",
+      "start": "2021-06",
+      "end": null,
+      "summary": "Led backend development for microservices platform serving 2M+ users."
+    },
+    {
+      "company": "Infosys",
+      "title": "Software Engineer",
+      "start": "2018-07",
+      "end": "2021-05",
+      "summary": "Built REST APIs for banking domain using Python/Django."
+    },
+    {
+      "company": "Accenture Technology",
+      "title": "Senior Software Engineer",
+      "start": "2021-01",
+      "end": null,
+      "summary": "- Architected and led development of a microservices backend serving 2M+ active users. - Reduced API latency by 40% via Redis caching and query optimization. - Mentored a team of 4 junior engineers."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Technology, Delhi",
+      "degree": "B.Tech",
+      "field": "Computer Science and Engineering",
+      "end_year": 2018
+    },
+    {
+      "institution": "Indian Institute of Technology, Delhi",
+      "degree": null,
+      "field": null,
+      "end_year": null
+    },
+    {
+      "institution": "B.Tech in Computer Science and Engineering",
+      "degree": "B.Tech",
+      "field": "Computer Science and Engineering",
+      "end_year": null
+    },
+    {
+      "institution": "2014 – 2018",
+      "degree": null,
+      "field": null,
+      "end_year": 20
+    }
+  ],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "headline",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "headline[alt]",
+      "source": "ats",
+      "method": "priority_score=0.765"
+    },
+    {
+      "field": "headline[alt]",
+      "source": "resume",
+      "method": "priority_score=0.525"
+    },
+    {
+      "field": "current_company",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "current_company[alt]",
+      "source": "ats",
+      "method": "priority_score=0.765"
+    },
+    {
+      "field": "current_company[alt]",
+      "source": "notes",
+      "method": "priority_score=0.330"
+    },
+    {
+      "field": "years_experience",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "years_experience[alt]",
+      "source": "resume",
+      "method": "priority_score=0.525"
+    },
+    {
+      "field": "linkedin",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "github",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "summary",
+      "source": "ats",
+      "method": "priority_score=0.765"
+    },
+    {
+      "field": "emails",
+      "source": "merged",
+      "method": "union"
+    },
+    {
+      "field": "phones",
+      "source": "merged",
+      "method": "union"
+    },
+    {
+      "field": "location_raw",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "location_raw[alt]",
+      "source": "ats",
+      "method": "priority_score=0.765"
+    },
+    {
+      "field": "location",
+      "source": "csv",
+      "method": "location_normalizer"
+    },
+    {
+      "field": "skills",
+      "source": "merged",
+      "method": "skill_normalizer+rapidfuzz"
+    },
+    {
+      "field": "experience",
+      "source": "merged",
+      "method": "union+dedup"
+    },
+    {
+      "field": "education",
+      "source": "merged",
+      "method": "union+dedup"
+    }
+  ],
+  "overall_confidence": 0.9629
+}

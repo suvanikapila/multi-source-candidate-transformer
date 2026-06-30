@@ -1,0 +1,39 @@
+{
+  "candidate": {
+    "applicant_name": "Priya Sharma",
+    "email_address": "priya.sharma@gmail.com",
+    "mobile": "+91 98765 43210",
+    "current_title": "Sr. Software Engineer",
+    "current_employer": "Accenture Technology",
+    "current_location": "Bangalore, India",
+    "linkedin_profile": "https://linkedin.com/in/priya-sharma-dev",
+    "github_profile": "https://github.com/priyasharma",
+    "years_of_experience": 5,
+    "skill_set": ["Python", "Django", "Flask", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "REST API", "Machine Learning"],
+    "work_history": [
+      {
+        "company": "Accenture",
+        "title": "Senior Software Engineer",
+        "start": "2021-06",
+        "end": null,
+        "summary": "Led backend development for microservices platform serving 2M+ users."
+      },
+      {
+        "company": "Infosys",
+        "title": "Software Engineer",
+        "start": "2018-07",
+        "end": "2021-05",
+        "summary": "Built REST APIs for banking domain using Python/Django."
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "Indian Institute of Technology, Delhi",
+        "degree": "B.Tech",
+        "field": "Computer Science and Engineering",
+        "end_year": 2018
+      }
+    ],
+    "summary": "Passionate backend engineer with 5+ years building scalable distributed systems."
+  }
+}

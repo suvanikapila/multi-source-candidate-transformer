@@ -1,0 +1,131 @@
+{
+  "full_name": "Priya Sharma",
+  "primary_email": "priya.sharma@gmail.com",
+  "phone": "+919876543210",
+  "skills": [
+    "Python",
+    "Django",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "REST API",
+    "Flask",
+    "Redis",
+    "Kubernetes",
+    "Machine Learning",
+    "FastAPI",
+    "MySQL",
+    "GraphQL",
+    "Pandas",
+    "Scikit-learn",
+    "Git",
+    "Linux",
+    "Agile"
+  ],
+  "headline": "Senior Software Engineer",
+  "years_experience": 5.0,
+  "location": "IN",
+  "overall_confidence": 0.9629,
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "headline",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "headline[alt]",
+      "source": "ats",
+      "method": "priority_score=0.765"
+    },
+    {
+      "field": "headline[alt]",
+      "source": "resume",
+      "method": "priority_score=0.525"
+    },
+    {
+      "field": "current_company",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "current_company[alt]",
+      "source": "ats",
+      "method": "priority_score=0.765"
+    },
+    {
+      "field": "current_company[alt]",
+      "source": "notes",
+      "method": "priority_score=0.330"
+    },
+    {
+      "field": "years_experience",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "years_experience[alt]",
+      "source": "resume",
+      "method": "priority_score=0.525"
+    },
+    {
+      "field": "linkedin",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "github",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "summary",
+      "source": "ats",
+      "method": "priority_score=0.765"
+    },
+    {
+      "field": "emails",
+      "source": "merged",
+      "method": "union"
+    },
+    {
+      "field": "phones",
+      "source": "merged",
+      "method": "union"
+    },
+    {
+      "field": "location_raw",
+      "source": "csv",
+      "method": "priority_score=0.855"
+    },
+    {
+      "field": "location_raw[alt]",
+      "source": "ats",
+      "method": "priority_score=0.765"
+    },
+    {
+      "field": "location",
+      "source": "csv",
+      "method": "location_normalizer"
+    },
+    {
+      "field": "skills",
+      "source": "merged",
+      "method": "skill_normalizer+rapidfuzz"
+    },
+    {
+      "field": "experience",
+      "source": "merged",
+      "method": "union+dedup"
+    },
+    {
+      "field": "education",
+      "source": "merged",
+      "method": "union+dedup"
+    }
+  ]
+}

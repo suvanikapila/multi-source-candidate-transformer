@@ -1,0 +1,40 @@
+Priya Sharma
+Senior Software Engineer | Backend | Cloud
+
+Email: priya.sharma@gmail.com
+Phone: +91 9876543210
+LinkedIn: https://linkedin.com/in/priya-sharma-dev
+GitHub: https://github.com/priyasharma
+Location: Bengaluru, Karnataka, India
+
+Summary
+Experienced backend engineer with 5+ years of experience building high-throughput,
+distributed systems. Passionate about clean code, developer experience, and cloud-native
+architectures.
+
+Skills
+Python, Django, Flask, FastAPI, PostgreSQL, MySQL, Redis, Docker, Kubernetes,
+AWS (EC2, S3, RDS, Lambda), REST API, GraphQL, Machine Learning, Pandas, Scikit-learn,
+Git, Linux, Agile
+
+Experience
+
+Accenture Technology
+Senior Software Engineer
+2021 – present
+- Architected and led development of a microservices backend serving 2M+ active users.
+- Reduced API latency by 40% via Redis caching and query optimization.
+- Mentored a team of 4 junior engineers.
+
+Infosys Limited
+Software Engineer
+2018 – 2021
+- Developed RESTful APIs for core banking systems using Python/Django.
+- Automated test coverage from 30% to 85%, reducing production bugs by 60%.
+- Collaborated with cross-functional teams across India and Europe.
+
+Education
+
+Indian Institute of Technology, Delhi
+B.Tech in Computer Science and Engineering
+2014 – 2018

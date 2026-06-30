@@ -1,0 +1,20 @@
+Recruiter Notes — Priya Sharma
+Date: June 2026
+
+Name: Priya Sharma
+Email: priya.sharma@gmail.com
+Phone: +91-9876543210
+
+Spoke with Priya on June 20th. Very strong candidate — 5 years of experience with Python and AWS.
+Currently at Accenture as a Senior Software Engineer. Previously worked at Infosys.
+
+Skills: Python, AWS, Kubernetes, Docker, Machine Learning, PostgreSQL, REST API
+She mentioned she's also worked with Go on side projects (see GitHub).
+
+Looking for a senior IC or tech lead role. Open to Bangalore or remote.
+Notice period: 60 days. Expected CTC: 35-40 LPA.
+
+Strengths: system design, backend architecture, clean code advocate.
+One concern: limited frontend experience.
+
+GitHub: https://github.com/priyasharma
